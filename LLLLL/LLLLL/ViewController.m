@@ -20,6 +20,7 @@
 //    self.view.bounds
     NSLog(@"%@", self.description);
     NSLog(@"%@", self.view.description);
+//    NSString *asas 
     // Do any additional setup after loading the view, typically from a nib.
 }
 
