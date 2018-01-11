@@ -18,6 +18,8 @@
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
 //    self.view.bounds
+    NSLog(@"%@", self.description);
+    NSLog(@"%@", self.view.description);
     // Do any additional setup after loading the view, typically from a nib.
 }
 
