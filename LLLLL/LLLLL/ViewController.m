@@ -22,6 +22,7 @@
     NSLog(@"%@", self.view.description);
     NSLog(@"hahahahahahahaahahah");
     NSLog(@"什么意思 ");
+    NSLog(@"!!!!!!");
 //    NSString *asas 
     // Do any additional setup after loading the view, typically from a nib.
 }
