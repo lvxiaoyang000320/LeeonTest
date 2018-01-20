@@ -23,6 +23,7 @@
     NSLog(@"hahahahahahahaahahah");
     NSLog(@"什么意思 ");
     NSLog(@"!!!!!!");
+    NSLog(@"这是个合并");
 //    NSString *asas 
     // Do any additional setup after loading the view, typically from a nib.
 }
